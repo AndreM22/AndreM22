@@ -1,4 +1,4 @@
-### Hi there 👋
+### Soy un estudiante de sistemas computacionales, con experiencia en la programación en Java, Kotlin, Scala y Python, que disfruta de solucionar problemas y programar cosas entretenidas 👋
 
 <!--
 **AndreM22/AndreM22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
